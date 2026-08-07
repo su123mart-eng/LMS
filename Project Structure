@@ -1,0 +1,25 @@
+LMS/
+├── package.json
+├── vite.config.js
+├── tailwind.config.js
+├── postcss.config.js
+├── index.html
+├── README.md
+└── src/
+    ├── main.jsx
+    ├── App.jsx
+    ├── index.css
+    ├── data/
+    │   └── initialData.js
+    ├── context/
+    │   └── AppContext.jsx
+    └── components/
+        ├── Navbar.jsx
+        ├── Sidebar.jsx
+        ├── Dashboard.jsx
+        ├── StudentPortal.jsx
+        ├── Students.jsx
+        ├── Classes.jsx
+        ├── Attendance.jsx
+        ├── StudyMaterials.jsx
+        └── Settings.jsx
