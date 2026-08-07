@@ -1,0 +1,48 @@
+# Qari Asim Junaid Quran Academy - Learning Management System (LMS)
+
+A simple, clean, mobile-friendly Learning Management System (LMS) built specifically for **Qari Asim Junaid Quran Academy**.
+
+---
+
+## Features
+
+1. **Admin Dashboard**:
+   - Total students count, total active classes, today's attendance summary, and study materials count.
+   - Quick access to recent students and active Quran courses.
+   - Clean professional Islamic education design (emerald & slate palette).
+
+2. **Students Management**:
+   - Full CRUD: Add, Edit, Delete, and View student profiles.
+   - Manage student name, email, phone, enrolled course, class, status, and enrollment date.
+   - Preloaded with demo students (Ahmad Khan, Abdullah, Muhammad Hamza, Abdul Rahman).
+
+3. **Classes & Courses**:
+   - Manage Quran courses (Quran with Tajweed, Noorani Qaida, Nazra Quran, Hifz Quran, Islamic Studies).
+   - Assign teachers, set class timings and schedule days.
+
+4. **Attendance System**:
+   - Select class and date.
+   - Mark students as Present, Absent, or Leave.
+   - View attendance percentage for each student.
+
+5. **Study Materials & PDF Library**:
+   - Upload and view PDF titles, descriptions, lesson notes, and course materials.
+   - Direct link opening for students and teachers.
+
+6. **Student Portal**:
+   - Dedicated view for students showing enrolled course, attendance percentage, assigned teacher, and available study materials.
+
+7. **Role-Based Login / Switching**:
+   - Easily switch between Administrator, Teacher, and Student views using the top navigation bar.
+
+8. **Responsive & Mobile-Friendly**:
+   - Optimized for Android, iOS, tablets, and desktop computers with a clean sidebar and mobile navigation bar.
+
+---
+
+## How to Run Locally
+
+1. Clone or download the repository:
+   ```bash
+   git clone [https://github.com/su123mart-eng/LMS.git](https://github.com/su123mart-eng/LMS.git)
+   cd LMS
